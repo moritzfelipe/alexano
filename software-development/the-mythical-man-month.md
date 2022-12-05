@@ -1,3 +1,5 @@
+# The Mythical Man-Month
+
 ## Summary
 "The Mythical Man-Month" is a book by Fred Brooks that was first published in 1975. The book is a collection of essays that discuss the challenges of managing large software development projects. In particular, Brooks argues that adding more people to a project that is behind schedule is likely to make the project even further behind, due to the overhead of coordinating and communicating among the additional workers. 
 
