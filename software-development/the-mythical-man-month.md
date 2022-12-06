@@ -1,16 +1,10 @@
 # The Mythical Man-Month
 
 ## Summary
-"The Mythical Man-Month" is a book by Fred Brooks that was first published in 1975. The book is a collection of essays that discuss the challenges of managing large software development projects. In particular, Brooks argues that adding more people to a project that is behind schedule is likely to make the project even further behind, due to the overhead of coordinating and communicating among the additional workers. 
-
-He also discusses the importance of good design and planning in software development, and the need for clear communication among team members. Overall, the book is a classic text on software project management, and it continues to be widely read and cited by practitioners in the field.
+"The Mythical Man-Month" by Fred Brooks is a book about software engineering and project management. The book offers valuable insights and advice for anyone involved in managing software development projects, including the importance of effective communication and coordination among team members and the pitfalls of making assumptions about project timelines. It also introduces the concept of "Brooks' law," which states that adding more people to a late project will only make it later.
 
 ## Background
-The book is based on Brooks' experiences as the manager of the IBM System/360 project, which was one of the largest and most complex software development projects in history. The book explores the challenges and pitfsalls of managing large software development projects, and offers insights and advice on how to overcome these challenges.
-
-The book is widely considered to be a classic work on software engineering, and it has influenced many software developers and project managers. It is known for its "Brooks' Law", which states that "adding manpower to a late software project makes it later". This law is based on Brooks' observation that large software development projects often suffer from a fundamental flaw: the more people are added to a project, the less productive they become, and the slower the project progresses.
-
-The book is also known for its discussion of the "Mythical Man-Month", which is a concept that refers to the common misconception that adding more people to a project will speed up its progress. This misconception is based on the assumption that the amount of work that can be done by a team is simply the sum of the individual contributions of each member of the team. However, this assumption ignores the fact that large software development projects are complex, dynamic, and interdependent, and that adding more people to such a project can actually increase the coordination and communication overhead, and can lead to decreased productivity and increased complexity.
+"The Mythical Man-Month" is a book by Fred Brooks that was first published in 1975. The book is based on Brooks' experiences managing the development of the IBM System/360 computer. In the book, Brooks discusses the challenges and pitfalls of software development project management and offers valuable insights and advice. Before writing the book, Brooks was a distinguished engineer and computer scientist who worked on several groundbreaking projects. He received his Bachelor's degree in mathematics from Duke University and his Master's in electrical engineering from Harvard University. In the 1960s, he joined IBM and was put in charge of the System/360 project. Through this experience, Brooks gained a deep understanding of the challenges of managing large-scale software development projects.
 
 ## 10 most important concepts of "The Mythical Man-Month"
 
