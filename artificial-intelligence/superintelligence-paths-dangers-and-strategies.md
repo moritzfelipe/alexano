@@ -111,4 +111,4 @@ Overall, the concept of AI governance, as discussed by Bostrom, refers to the po
 
 Buy Superintelligence: Paths, Dangers, and Strategies[here](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/1501227742)
 
-Edit the text on this page [here](https://github.com/moritzfelipe/alexano/blob/main/software-development/superintelligence-paths-dangers-and-strategies.md)
+Edit the text on this page [here](https://github.com/moritzfelipe/alexano/blob/main/artificial-intelligence/superintelligence-paths-dangers-and-strategies.md)

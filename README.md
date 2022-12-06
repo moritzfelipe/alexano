@@ -3,3 +3,5 @@ Alexano summarizes the key ideas and concepts from a book or group of books usin
 ## Categories
 
 ### [Software development](/alexano/software-development/index.html)
+
+### [Artificial intelligence](/alexano/artificial-intelligence/index.html)
