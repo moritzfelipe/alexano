@@ -1,3 +1,1 @@
-# Alexano
-
-[Software development](/software-development/index.html)
+[Software development](/alexano/software-development/index.html)
